@@ -15,43 +15,46 @@ These Repos are for sorting your Documents and access the extracted Data via a 3
 |✅🛠️| findethedox | THE sqlite Database | 3 Wordclouds, filelist, searchbox | lets you search and navigate through you data by search, clicking the words in the clouds, clicking the dock in the list opens the document at the first occuring position of the searchterm  |
 
 ---
-
 Sparx 
-
 ---
-| Status | Name| Input |
+| Status | Name| Comment |
 |---|---|---|
-| | | |
-Sparx Models Private
-sparx_xmi_write - dirty xmi writing sparx xmi from excel
-
+|🛠️|Sparx Models | Private Models |
+|🛠️|sparx_xmi_write |dirty xmi writing sparx xmi from excel |
+  
 ---
 THE Game
 ---
-orbitalc2core Private
-testo2c - test the orbital2core software
-CommandPulse - Private
+| Status | Name| Comment |
+|---|---|---|
+|✅|orbitalc2core | Private -  military map display |
+|✅|testo2c | test orbitalc2core https://hub.docker.com/r/cndrbrbr/orbital2core, https://hub.docker.com/r/cndrbrbr/orbital2core-adatp3, https://hub.docker.com/r/cndrbrbr/orbital2core-link16 |
+|🛠️|CommandPulse | the game Private|
 
----
 ---
 MINECRAFT
 ---
-StudendcontrolsServer - A small app to avoid students using putty for controlling the minecraft workshop server.
-script4kids - new scriptcraft plugin for the kids of the K.A.G. Meckenheim
-javascriptMinecraftWorkshopServer - Sets up a complete Environment for teaching Javascript Programming by writing Programs for building houses. Webcertificate, IDE and Minecraft Server included
-minecraftDash 
-geomaptools - Minecraft Spigot plugin for geo/map building tools (OSM import, image map, trail tools)
-minecraftHostingServer - Host Servers for Students and give selected access for the students to manage their server.
-webscriptcraft - Minecraft build Programming IDE with 3D visualization
-theDocks - my way to containerize minecraft
+| Status | Name| Comment |
+|---|---|---|
+|✅ |minecraftHostingServer |Host Servers for Students and give selected access for the students to manage their server. |
+|✅|StudendcontrolsServer| A small app to avoid students using putty for controlling the minecraft workshop server.|
+|✅|javascriptMinecraftWorkshopServer|Sets up a complete Environment for teaching Javascript Programming by writing Programs for building houses. Webcertificate, IDE and Minecraft Server included see: https://codefield.de|
+|✅|script4kids|new scriptcraft plugin for the kids of the K.A.G. Meckenheim|
+|✅|minecraftDash|grafana overview of the Minecraft-Servers see https://meckminecraft.de|
+|✅|geomaptools| Minecraft Spigot plugin for geo/map building tools (OSM import, image map, trail tools)|
+|🛠️|webscriptcraft |Minecraft build Programming IDE with 3D visualization |
+|🛠️|theDocks |my way to containerize minecraft |
 
 ---
 MISC 
 ---
-useful-snippets - Lookup howto do this and that.
-PyAITools - Small Python scripts doing small tasks
-calibre - setting up calibre and calibre-we with docker compose
-neo4jDock - Docker-compose environment for Dashboard
+| Status | Name| Comment |
+|---|---|---|
+|✅ |useful-snippets |Lookup howto do this and that |
+|✅ |PyAITools|Small Python scripts doing small tasks |
+|✅ |calibre |setting up calibre and calibre-we with docker compose |
+|✅ |neo4jDock |Docker-compose environment for Dashboard-Programming and service|
+ 
 
 <!--
 **cndrbrbr/cndrbrbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
