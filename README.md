@@ -16,12 +16,39 @@ These Repos are for sorting your Documents and access the extracted Data via a 3
 
 ---
 
+Sparx 
 
+---
 
+Sparx Models Private
+sparx_xmi_write - dirty xmi writing sparx xmi from excel
 
+---
+THE Game
+---
+orbitalc2core Private
+testo2c - test the orbital2core software
 
+---
+---
+MINECRAFT
+---
+StudendcontrolsServer - A small app to avoid students using putty for controlling the minecraft workshop server.
+script4kids - new scriptcraft plugin for the kids of the K.A.G. Meckenheim
+javascriptMinecraftWorkshopServer - Sets up a complete Environment for teaching Javascript Programming by writing Programs for building houses. Webcertificate, IDE and Minecraft Server included
+minecraftDash 
+geomaptools - Minecraft Spigot plugin for geo/map building tools (OSM import, image map, trail tools)
+minecraftHostingServer - Host Servers for Students and give selected access for the students to manage their server.
+webscriptcraft - Minecraft build Programming IDE with 3D visualization
+theDocks - my way to containerize minecraft
 
-
+---
+MISC 
+---
+useful-snippets - Lookup howto do this and that.
+PyAITools - Small Python scripts doing small tasks
+calibre - setting up calibre and calibre-we with docker compose
+neo4jDock - Docker-compose environment for Dashboard
 
 <!--
 **cndrbrbr/cndrbrbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
