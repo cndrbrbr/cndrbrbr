@@ -12,7 +12,7 @@ These Repos are for sorting your Documents and access the extracted Data via a 3
 |✅| manageSparxRepos | qea | Folder, png | converts each eap file into a folde with png per diagram, 🛠️ export names and notes|
 |🛠️| addTxtFile | anything | txt | create text from anything to put into our allmydox database. |
 |✅| allmydox | docx, doc, txt, pdf, (🛠️html), (🛠️xls) | THE sqlite Database | collects everything from word, html, excel, txt and pdf |
-|✅🛠️| findethedox | THE sqlite Database | 3 Wordclouds, filelist, searchbox | lets you search and navigate through you data by search, clicking the words in the clouds, clicking the dock in the list opens the document at the first occuring position of the searchterm  |
+|✅🛠️| findethedox | some THE sqlite Database s | 3 Wordclouds, filelist, searchbox | lets you search and navigate through you data by search, clicking the words in the clouds, clicking the dock in the list opens the document at the first occuring position of the searchterm  |
 
 ---
 Sparx 
