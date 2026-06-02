@@ -28,7 +28,7 @@ THE Game
 | Status | Name| Comment |
 |---|---|---|
 |✅|orbitalc2core | Private -  military map display |
-|✅|testo2c | test orbitalc2core https://hub.docker.com/r/cndrbrbr/orbital2core, https://hub.docker.com/r/cndrbrbr/orbital2core-adatp3, https://hub.docker.com/r/cndrbrbr/orbital2core-link16 |
+|✅|testo2c | test orbitalc2core https://hub.docker.com/r/cndrbrbr/orbital2core |
 |🛠️|CommandPulse | the game Private|
 
 ---
