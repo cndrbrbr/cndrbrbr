@@ -15,7 +15,7 @@ These Repos are for sorting your Documents and access the extracted Data via a 3
 |✅🛠️| findethedox | some THE sqlite Database s | 3 Wordclouds, filelist, searchbox | lets you search and navigate through you data by search, clicking the words in the clouds, clicking the dock in the list opens the document at the first occuring position of the searchterm  |
 
 ---
-Sparx 
+Military and Sparx 
 ---
 | Status | Name| Comment |
 |---|---|---|
