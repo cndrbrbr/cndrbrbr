@@ -45,7 +45,7 @@ MINECRAFT
 |✅|script4kids|new scriptcraft plugin for the kids of the K.A.G. Meckenheim|
 |✅|minecraftDash|grafana overview of the Minecraft-Servers see https://meckminecraft.de|
 |✅|geomaptools| Minecraft Spigot plugin for geo/map building tools (OSM import, image map, trail tools)|
-|🛠️|webscriptcraft |Minecraft build Programming IDE with 3D visualization |
+|✅|webscriptcraft |Minecraft build Programming IDE with 3D visualization |
 |🛠️|theDocks |my way to containerize minecraft |
 
 ---
