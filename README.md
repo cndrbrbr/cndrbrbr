@@ -35,6 +35,29 @@ THE Game
 |🛠️|CommandPulse | the game Private|
 
 ---
+Games
+---
+| Status | Name| Comment |
+|---|---|---|
+|🛠️✅|rogi | a small terminal rogue game |
+|✅|spacebam | asteriods clone in godot |
+
+---
+SV
+---
+| Status | Name| Comment |
+|---|---|---|
+|✅|svsw | Analysis Software for court cases |
+
+---
+School
+---
+| Status | Name| Comment |
+|---|---|---|
+|✅|NoNameQuiz | Anonym antworten. Gemeinsam lernen. Jeder antwortet. Niemand wird bloßgestellt. |
+
+
+---
 MINECRAFT
 ---
 | Status | Name| Comment |
