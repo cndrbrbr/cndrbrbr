@@ -70,6 +70,7 @@ MINECRAFT
 |✅|geomaptools| Minecraft Spigot plugin for geo/map building tools (OSM import, image map, trail tools)|
 |✅|webscriptcraft |Minecraft build Programming IDE with 3D visualization |
 |✅|mineback |Minecraft backup infrastructure |
+|🛠️|prometheus4spigot |Minecraft status export for grafana |
 |🛠️|theDocks |my way to containerize minecraft |
 
 ---
