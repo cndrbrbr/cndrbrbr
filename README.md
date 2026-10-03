@@ -8,11 +8,11 @@ These Repos are for sorting your Documents and access the extracted Data via a 3
 
 | Status | Name| Input | Result | Comment | 
 |---|---|---|---|---|
-|✅| exportPowerpointSlides | ppt, pptxB | Folder per File, png, txt | converts each ppt into a folder with pngs and 2 text files containing slidetext and comment text | 
-|✅| manageSparxRepos | qea | Folder, png | converts each eap file into a folde with png per diagram, 🛠️ export names and notes|
-|🛠️| addTxtFile | anything | txt | create text from anything to put into our allmydox database. |
-|✅| allmydox | docx, doc, txt, pdf, (🛠️html), (🛠️xls) | THE sqlite Database | collects everything from word, html, excel, txt and pdf |
-|✅🛠️| findethedox | some THE sqlite Database s | 3 Wordclouds, filelist, searchbox | lets you search and navigate through you data by search, clicking the words in the clouds, clicking the dock in the list opens the document at the first occuring position of the searchterm  |
+|✅|[exportPowerpointSlides](https://github.com/cndrbrbr/exportPowerpointSlides) | ppt, pptxB | Folder per File, png, txt | converts each ppt into a folder with pngs and 2 text files containing slidetext and comment text | 
+|✅|[manageSparxRepos](https://github.com/cndrbrbr/manageSparxRepos) | qea | Folder, png | converts each eap file into a folde with png per diagram, 🛠️ export names and notes|
+|🛠️|[addTxtFile](https://github.com/cndrbrbr/addTxtFile) | anything | txt | create text from anything to put into our allmydox database. |
+|✅|[allmydox](https://github.com/cndrbrbr/allmydox) | docx, doc, txt, pdf, (🛠️html), (🛠️xls) | THE sqlite Database | collects everything from word, html, excel, txt and pdf |
+|✅🛠️|[findethedox](https://github.com/cndrbrbr/findethedox) | some THE sqlite Database s | 3 Wordclouds, filelist, searchbox | lets you search and navigate through you data by search, clicking the words in the clouds, clicking the dock in the list opens the document at the first occuring position of the searchterm  |
 
 ---
 Military and Sparx 
@@ -20,7 +20,7 @@ Military and Sparx
 | Status | Name| Comment |
 |---|---|---|
 |🛠️|Sparx Models | Private Models |
-|🛠️|sparx_xmi_write |dirty xmi writing sparx xmi from excel |
+|🛠️|[sparx_xmi_write](https://github.com/cndrbrbr/sparx_xmi_write) |dirty xmi writing sparx xmi from excel |
 |🛠️|OrbatBuilder | import and export Sparx Files |
 |🛠️|MDM | data format for mil simulation and analysis |
 |🛠️|SitAssist | Dashboard for mil. Simulation and Analysis |
@@ -31,7 +31,7 @@ THE Game
 | Status | Name| Comment |
 |---|---|---|
 |✅|orbitalc2core | Private -  military map display |
-|✅|testo2c | test orbitalc2core https://hub.docker.com/r/cndrbrbr/orbital2core |
+|✅|[testo2c](https://github.com/cndrbrbr/testo2c) | test orbitalc2core https://hub.docker.com/r/cndrbrbr/orbital2core |
 |🛠️|CommandPulse | the game Private|
 
 ---
@@ -39,8 +39,8 @@ Games
 ---
 | Status | Name| Comment |
 |---|---|---|
-|🛠️✅|rogi | a small terminal rogue game |
-|✅|spacebam | asteriods clone in godot |
+|🛠️✅|[rogi](https://github.com/cndrbrbr/rogi) | a small terminal rogue game |
+|✅|[spacebam](https://github.com/cndrbrbr/spacebam) | asteriods clone in godot |
 
 ---
 SV
@@ -54,7 +54,7 @@ School
 ---
 | Status | Name| Comment |
 |---|---|---|
-|✅|NoNameQuiz | Anonym antworten. Gemeinsam lernen. Jeder antwortet. Niemand wird bloßgestellt. |
+|✅|[NoNameQuiz](https://github.com/cndrbrbr/NoNameQuiz) | Anonym antworten. Gemeinsam lernen. Jeder antwortet. Niemand wird bloßgestellt. |
 
 
 ---
@@ -62,26 +62,29 @@ MINECRAFT
 ---
 | Status | Name| Comment |
 |---|---|---|
-|✅ |minecraftHostingServer |Host Servers for Students and give selected access for the students to manage their server. |
-|✅|StudendcontrolsServer| A small app to avoid students using putty for controlling the minecraft workshop server.|
-|✅|javascriptMinecraftWorkshopServer|Sets up a complete Environment for teaching Javascript Programming by writing Programs for building houses. Webcertificate, IDE and Minecraft Server included see: https://codefield.de|
-|✅|script4kids|new scriptcraft plugin for the kids of the K.A.G. Meckenheim|
-|✅|minecraftDash|grafana overview of the Minecraft-Servers see https://meckminecraft.de|
-|✅|geomaptools| Minecraft Spigot plugin for geo/map building tools (OSM import, image map, trail tools)|
-|✅|webscriptcraft |Minecraft build Programming IDE with 3D visualization |
-|✅|mineback |Minecraft backup infrastructure |
-|🛠️|prometheus4spigot |Minecraft status export for grafana |
-|🛠️|theDocks |my way to containerize minecraft |
+|✅ |[minecraftHostingServer](https://github.com/cndrbrbr/minecraftHostingServer) |Host Servers for Students and give selected access for the students to manage their server. |
+|✅|[StudendcontrolsServer](https://github.com/cndrbrbr/StudendcontrolsServer) | A small app to avoid students using putty for controlling the minecraft workshop server.|
+|✅|[javascriptMinecraftWorkshopServer](https://github.com/cndrbrbr/javascriptMinecraftWorkshopServer) |Sets up a complete Environment for teaching Javascript Programming by writing Programs for building houses. Webcertificate, IDE and Minecraft Server included see: https://codefield.de|
+|✅|[script4kids](https://github.com/cndrbrbr/Script4kids) |new scriptcraft plugin for the kids of the K.A.G. Meckenheim|
+|✅|[minecraftDash](https://github.com/cndrbrbr/minecraftDash) |grafana overview of the Minecraft-Servers see https://meckminecraft.de|
+|✅|[cavecompass](https://github.com/cndrbrbr/cavecompass) | Spigot plugin: a compass that always points to the nearest big open cave, with a live up/down hint |
+|✅|[geomaptools](https://github.com/cndrbrbr/geomaptools) | Minecraft Spigot plugin for geo/map building tools (OSM import, image map, trail tools)|
+|✅|[webscriptcraft](https://github.com/cndrbrbr/webscriptcraft) |Minecraft build Programming IDE with 3D visualization |
+|✅|[mineback](https://github.com/cndrbrbr/mineback) |Minecraft backup infrastructure |
+|🛠️|[prometheus4spigot](https://github.com/cndrbrbr/prometheus4spigot) |Minecraft status export for grafana |
+|🛠️|[theDocks](https://github.com/cndrbrbr/theDocks) |my way to containerize minecraft |
 
 ---
 MISC 
 ---
 | Status | Name| Comment |
 |---|---|---|
-|✅ |useful-snippets |Lookup howto do this and that |
-|✅ |PyAITools|Small Python scripts doing small tasks |
-|✅ |calibre |setting up calibre and calibre-we with docker compose |
-|✅ |neo4jDock |Docker-compose environment for Dashboard-Programming and service|
+|✅ |[useful-snippets](https://github.com/cndrbrbr/useful-snippets) |Lookup howto do this and that |
+|✅ |[PyAITools](https://github.com/cndrbrbr/PyAITools) |Small Python scripts doing small tasks |
+|✅ |[calibre](https://github.com/cndrbrbr/calibre) |setting up calibre and calibre-we with docker compose |
+|✅ |[neo4jDock](https://github.com/cndrbrbr/neo4jDock) |Docker-compose environment for Dashboard-Programming and service|
+|✅ |[omasys](https://github.com/cndrbrbr/omasys) |Self-hosted family communication system for elderly relatives: photos, messages, video calls, morning greeting |
+|✅ |[caddy-proxy](https://github.com/cndrbrbr/caddy-proxy) |Shared Caddy reverse proxy (Let's Encrypt) for codefield.de services |
  
 
 <!--
