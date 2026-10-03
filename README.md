@@ -67,7 +67,7 @@ MINECRAFT
 |✅|[javascriptMinecraftWorkshopServer](https://github.com/cndrbrbr/javascriptMinecraftWorkshopServer) |Sets up a complete Environment for teaching Javascript Programming by writing Programs for building houses. Webcertificate, IDE and Minecraft Server included see: https://codefield.de|
 |✅|[script4kids](https://github.com/cndrbrbr/Script4kids) |new scriptcraft plugin for the kids of the K.A.G. Meckenheim|
 |✅|[minecraftDash](https://github.com/cndrbrbr/minecraftDash) |grafana overview of the Minecraft-Servers see https://meckminecraft.de|
-|✅|[cavecompass](https://github.com/cndrbrbr/cavecompass) | Spigot plugin: a compass that points to the nearest big open cave or to a cluster of any block (e.g. bee nests), with adjustable search radius and a live up/down hint |
+|✅|<img src="https://raw.githubusercontent.com/cndrbrbr/cavecompass/main/logo.svg" width="20" height="20" alt="" align="top"> [cavecompass](https://github.com/cndrbrbr/cavecompass) | Spigot plugin: a compass that points to the nearest big open cave or to a cluster of any block (e.g. bee nests), with adjustable search radius and a live up/down hint |
 |✅|[geomaptools](https://github.com/cndrbrbr/geomaptools) | Minecraft Spigot plugin for geo/map building tools (OSM import, image map, trail tools)|
 |✅|[webscriptcraft](https://github.com/cndrbrbr/webscriptcraft) |Minecraft build Programming IDE with 3D visualization |
 |✅|[mineback](https://github.com/cndrbrbr/mineback) |Minecraft backup infrastructure |
