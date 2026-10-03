@@ -65,7 +65,7 @@ MINECRAFT
 |✅ |[minecraftHostingServer](https://github.com/cndrbrbr/minecraftHostingServer) |Host Servers for Students and give selected access for the students to manage their server. |
 |✅|[StudendcontrolsServer](https://github.com/cndrbrbr/StudendcontrolsServer) | A small app to avoid students using putty for controlling the minecraft workshop server.|
 |✅|[javascriptMinecraftWorkshopServer](https://github.com/cndrbrbr/javascriptMinecraftWorkshopServer) |Sets up a complete Environment for teaching Javascript Programming by writing Programs for building houses. Webcertificate, IDE and Minecraft Server included see: https://codefield.de|
-|✅|[script4kids](https://github.com/cndrbrbr/Script4kids) |new scriptcraft plugin for the kids of the K.A.G. Meckenheim|
+|✅|<img src="https://raw.githubusercontent.com/cndrbrbr/Script4kids/main/logo.svg" width="20" height="20" alt="" align="top"> [script4kids](https://github.com/cndrbrbr/Script4kids) |new scriptcraft plugin for the kids of the K.A.G. Meckenheim|
 |✅|[minecraftDash](https://github.com/cndrbrbr/minecraftDash) |grafana overview of the Minecraft-Servers see https://meckminecraft.de|
 |✅|<img src="https://raw.githubusercontent.com/cndrbrbr/cavecompass/main/logo.svg" width="20" height="20" alt="" align="top"> [cavecompass](https://github.com/cndrbrbr/cavecompass) | Spigot plugin: a compass that points to the nearest big open cave or to a cluster of any block (e.g. bee nests), with adjustable search radius and a live up/down hint |
 |✅|[geomaptools](https://github.com/cndrbrbr/geomaptools) | Minecraft Spigot plugin for geo/map building tools (OSM import, image map, trail tools)|
