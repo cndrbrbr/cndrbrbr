@@ -68,7 +68,7 @@ MINECRAFT
 |✅|<img src="https://raw.githubusercontent.com/cndrbrbr/Script4kids/main/logo.svg" width="20" height="20" alt="" align="top"> [script4kids](https://github.com/cndrbrbr/Script4kids) |new scriptcraft plugin for the kids of the K.A.G. Meckenheim|
 |✅|[minecraftDash](https://github.com/cndrbrbr/minecraftDash) |grafana overview of the Minecraft-Servers see https://meckminecraft.de|
 |✅|<img src="https://raw.githubusercontent.com/cndrbrbr/cavecompass/main/logo.svg" width="20" height="20" alt="" align="top"> [cavecompass](https://github.com/cndrbrbr/cavecompass) | Spigot plugin: a compass that points to the nearest big open cave or to a cluster of any block (e.g. bee nests), with adjustable search radius and a live up/down hint |
-|✅|[geomaptools](https://github.com/cndrbrbr/geomaptools) | Minecraft Spigot plugin for geo/map building tools (OSM import, image map, trail tools)|
+|✅|<img src="https://raw.githubusercontent.com/cndrbrbr/geomaptools/master/logo.svg" width="20" height="20" alt="" align="top"> [geomaptools](https://github.com/cndrbrbr/geomaptools) | Minecraft Spigot plugin for geo/map building tools (OSM import, image map, trail tools)|
 |✅|[webscriptcraft](https://github.com/cndrbrbr/webscriptcraft) |Minecraft build Programming IDE with 3D visualization |
 |✅|[mineback](https://github.com/cndrbrbr/mineback) |Minecraft backup infrastructure |
 |🛠️|[prometheus4spigot](https://github.com/cndrbrbr/prometheus4spigot) |Minecraft status export for grafana |
