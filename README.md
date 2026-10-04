@@ -71,7 +71,7 @@ MINECRAFT
 |✅|<img src="https://raw.githubusercontent.com/cndrbrbr/geomaptools/master/logo.svg" width="20" height="20" alt="" align="top"> [geomaptools](https://github.com/cndrbrbr/geomaptools) | Minecraft Spigot plugin for geo/map building tools (OSM import, image map, trail tools) — Minecraft 1.21.11 and 26.3 |
 |✅|[webscriptcraft](https://github.com/cndrbrbr/webscriptcraft) |Minecraft build Programming IDE with 3D visualization |
 |✅|[mineback](https://github.com/cndrbrbr/mineback) |Minecraft backup infrastructure |
-|🛠️|[prometheus4spigot](https://github.com/cndrbrbr/prometheus4spigot) |Minecraft status export for grafana |
+|🛠️|[prometheus4spigot](https://github.com/cndrbrbr/prometheus4spigot) |Minecraft status export for grafana (more params!) |
 |🛠️|[theDocks](https://github.com/cndrbrbr/theDocks) |my way to containerize minecraft |
 |🛠️| 2Do |easy (core) protect|
 |🛠️| 2Do |easy rights admin gui|
