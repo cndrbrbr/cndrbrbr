@@ -62,13 +62,13 @@ MINECRAFT
 ---
 | Status | Name| Comment |
 |---|---|---|
-|✅ |[minecraftHostingServer](https://github.com/cndrbrbr/minecraftHostingServer) |Host Servers for Students and give selected access for the students to manage their server. |
+|✅ |[minecraftHostingServer](https://github.com/cndrbrbr/minecraftHostingServer) |Hosts one Minecraft server per student (any number, standalone or behind BungeeCord). Students manage their server on an admin page with e-mail login code: start/stop, install plugins from a catalog or upload their own, whitelist/operators, edit server.properties. Teachers assign and reset servers. Spigot 26.3 |
 |✅|[StudendcontrolsServer](https://github.com/cndrbrbr/StudendcontrolsServer) | A small app to avoid students using putty for controlling the minecraft workshop server.|
-|✅|[javascriptMinecraftWorkshopServer](https://github.com/cndrbrbr/javascriptMinecraftWorkshopServer) |Sets up a complete Environment for teaching Javascript Programming by writing Programs for building houses. Webcertificate, IDE and Minecraft Server included see: https://codefield.de|
-|✅|<img src="https://raw.githubusercontent.com/cndrbrbr/Script4kids/main/logo.svg" width="20" height="20" alt="" align="top"> [script4kids](https://github.com/cndrbrbr/Script4kids) |new scriptcraft plugin for the kids of the K.A.G. Meckenheim|
+|✅|[javascriptMinecraftWorkshopServer](https://github.com/cndrbrbr/javascriptMinecraftWorkshopServer) |Sets up a complete Environment for teaching Javascript Programming by writing Programs for building houses. Webcertificate, IDE and Minecraft Server (Spigot 26.3 with script4kids, cavecompass and geomaptools) included see: https://codefield.de|
+|✅|<img src="https://raw.githubusercontent.com/cndrbrbr/Script4kids/main/logo.svg" width="20" height="20" alt="" align="top"> [script4kids](https://github.com/cndrbrbr/Script4kids) |new scriptcraft plugin for the kids of the K.A.G. Meckenheim — releases for Minecraft 1.21.11 and 26.3|
 |✅|[minecraftDash](https://github.com/cndrbrbr/minecraftDash) |grafana overview of the Minecraft-Servers see https://meckminecraft.de|
-|✅|<img src="https://raw.githubusercontent.com/cndrbrbr/cavecompass/main/logo.svg" width="20" height="20" alt="" align="top"> [cavecompass](https://github.com/cndrbrbr/cavecompass) | Spigot plugin: a compass that points to the nearest big open cave or to a cluster of any block (e.g. bee nests), with adjustable search radius and a live up/down hint |
-|✅|<img src="https://raw.githubusercontent.com/cndrbrbr/geomaptools/master/logo.svg" width="20" height="20" alt="" align="top"> [geomaptools](https://github.com/cndrbrbr/geomaptools) | Minecraft Spigot plugin for geo/map building tools (OSM import, image map, trail tools)|
+|✅|<img src="https://raw.githubusercontent.com/cndrbrbr/cavecompass/main/logo.svg" width="20" height="20" alt="" align="top"> [cavecompass](https://github.com/cndrbrbr/cavecompass) | Spigot plugin: a compass that points to the nearest big open cave or to a cluster of any block (e.g. bee nests), with adjustable search radius and a live up/down hint — Minecraft 1.21.11 and 26.3 |
+|✅|<img src="https://raw.githubusercontent.com/cndrbrbr/geomaptools/master/logo.svg" width="20" height="20" alt="" align="top"> [geomaptools](https://github.com/cndrbrbr/geomaptools) | Minecraft Spigot plugin for geo/map building tools (OSM import, image map, trail tools) — Minecraft 1.21.11 and 26.3 |
 |✅|[webscriptcraft](https://github.com/cndrbrbr/webscriptcraft) |Minecraft build Programming IDE with 3D visualization |
 |✅|[mineback](https://github.com/cndrbrbr/mineback) |Minecraft backup infrastructure |
 |🛠️|[prometheus4spigot](https://github.com/cndrbrbr/prometheus4spigot) |Minecraft status export for grafana |
