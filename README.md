@@ -62,7 +62,7 @@ MINECRAFT
 ---
 | Status | Name| Comment |
 |---|---|---|
-|✅ |[minecraftHostingServer](https://github.com/cndrbrbr/minecraftHostingServer) |Hosts one Minecraft server per student (any number, standalone or behind BungeeCord). Students manage their server on an admin page with e-mail login code: start/stop, install plugins from a catalog or upload their own, whitelist/operators, edit server.properties. Teachers assign and reset servers. Spigot 26.3 |
+|✅ |[minecraftHostingServer](https://github.com/cndrbrbr/minecraftHostingServer) |Hosts one Minecraft server per student (any number, standalone or behind BungeeCord). Students manage their server on an admin page with e-mail login code: start/stop, install plugins from a catalog or upload their own, whitelist/operators, edit server.properties. Teachers assign and reset servers and manage the lobby; worlds are saved safely on every stop. Spigot 26.3 |
 |✅|[StudendcontrolsServer](https://github.com/cndrbrbr/StudendcontrolsServer) | A small app to avoid students using putty for controlling the minecraft workshop server.|
 |✅|[javascriptMinecraftWorkshopServer](https://github.com/cndrbrbr/javascriptMinecraftWorkshopServer) |Sets up a complete Environment for teaching Javascript Programming by writing Programs for building houses. Webcertificate, IDE and Minecraft Server (Spigot 26.3 with script4kids, cavecompass and geomaptools) included see: https://codefield.de|
 |✅|<img src="https://raw.githubusercontent.com/cndrbrbr/Script4kids/main/logo.svg" width="20" height="20" alt="" align="top"> [script4kids](https://github.com/cndrbrbr/Script4kids) |new scriptcraft plugin for the kids of the K.A.G. Meckenheim — releases for Minecraft 1.21.11 and 26.3|
