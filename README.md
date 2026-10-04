@@ -74,6 +74,7 @@ MINECRAFT
 |🛠️|[prometheus4spigot](https://github.com/cndrbrbr/prometheus4spigot) |Minecraft status export for grafana |
 |🛠️|[theDocks](https://github.com/cndrbrbr/theDocks) |my way to containerize minecraft |
 |🛠️| 2Do |easy (core) protect|
+|🛠️| 2Do |easy rights admin gui|
 
 ---
 MISC 
