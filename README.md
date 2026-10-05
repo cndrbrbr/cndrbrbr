@@ -48,6 +48,7 @@ SV
 | Status | Name| Comment |
 |---|---|---|
 |✅|svsw | Analysis Software for court cases |
+|✅|speechy | Lokaler PDF-Vorleser (Piper, OCR, WAV/MP3-Export) und Spracherkennung (Whisper) für Windows |
 
 ---
 School
