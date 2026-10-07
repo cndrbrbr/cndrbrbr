@@ -15,16 +15,13 @@ These Repos are for sorting your Documents and access the extracted Data via a 3
 |✅🛠️|[findethedox](https://github.com/cndrbrbr/findethedox) | some THE sqlite Database s | 3 Wordclouds, filelist, searchbox | lets you search and navigate through you data by search, clicking the words in the clouds, clicking the dock in the list opens the document at the first occuring position of the searchterm  |
 
 ---
-Military and Sparx 
+Sparx 
 ---
 | Status | Name| Comment |
 |---|---|---|
-|🛠️|Sparx Models | Private Models |
+
 |🛠️|[sparx_xmi_write](https://github.com/cndrbrbr/sparx_xmi_write) |dirty xmi writing sparx xmi from excel |
-|🛠️|OrbatBuilder | import and export Sparx Files |
-|🛠️|MDM | data format for mil simulation and analysis |
-|🛠️|SitAssist | Dashboard for mil. Simulation and Analysis |
-  
+
 ---
 THE Game
 ---
